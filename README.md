@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @aryanraj1212
-- 👀 I’m interested in software development..
-- 🌱 I’m currently learning dsa...
-- 💞️ I’m looking to collaborate on ..open source.
-- 📫 How to reach me .aryanraj1799@gmail.com..
-
-<!---
-aryanraj1212/aryanraj1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I,m enthusiastic it student in my 3rd year with a passion for kava full stack development, artificial intelligence and software engineering. I thrive on building meaningful projects and envision contributing to the tech world by developing impactful applications.  from creating web that connect people directly with resources to building real time gesture recognition solutions, I'm all about turning ideas into reality. 
