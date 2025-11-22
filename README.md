@@ -1,1 +1,1 @@
-I,m enthusiastic it student in my 3rd year with a passion for kava full stack development, artificial intelligence and software engineering. I thrive on building meaningful projects and envision contributing to the tech world by developing impactful applications.  from creating web that connect people directly with resources to building real time gesture recognition solutions, I'm all about turning ideas into reality. 
+**Hi there, I'm Aryan Raj 👋
